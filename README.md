@@ -1,2 +1,2 @@
 # new project created from local machine 
-# to remote machine 
+# to remote machine .
